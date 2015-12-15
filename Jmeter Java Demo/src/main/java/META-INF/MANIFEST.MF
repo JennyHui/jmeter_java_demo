@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Class-Path: htmlparser-2.1.jar jodd-lagarto-3.6.4.jar poi-ooxml-schema
+ s-3.11.jar jdom-1.0.jar xmlParserAPIs-2.0.2.jar geronimo-spec-jms-1.1
+ -rc4.jar avalon-logkit-2.1.jar bcmail-jdk15on-1.49.jar vorbis-java-ti
+ ka-0.6.jar junitperf-1.8.jar junit-4.12.jar mail-1.5.0-b01.jar excali
+ bur-pool-instrumented-2.1.jar jcharts-0.7.5.jar xmlbeans-2.6.0.jar co
+ mmons-codec-1.10.jar commons-compress-1.8.1.jar slf4j-api-1.7.10.jar 
+ excalibur-pool-api-2.1.jar tagsoup-1.2.1.jar isoparser-1.0.2.jar jsou
+ p-1.8.1.jar avalon-framework-impl-4.3.jar qdox-1.5.jar xml-apis-1.4.0
+ 1.jar excalibur-datasource-2.1.jar jmatio-1.0.jar boilerpipe-1.1.0.ja
+ r hamcrest-core-1.3.jar httpcore-4.2.5.jar pdfbox-1.8.8.jar excalibur
+ -instrument-1.0.jar asm-debug-all-4.1.jar excalibur-testcase-2.1.jar 
+ jempbox-1.8.8.jar xmpcore-5.1.2.jar tika-core-1.7.jar rsyntaxtextarea
+ -2.5.6.jar excalibur-pool-impl-2.1.jar fontbox-1.8.8.jar logkit-2.0.j
+ ar avalon-framework-api-4.3.jar netcdf-4.2.20.jar rest-assured-common
+ -2.7.0.jar bcprov-jdk15on-1.49.jar jmock-1.0.1.jar juniversalchardet-
+ 1.0.3.jar jtidy-r938.jar concurrent-1.3.4.jar xz-1.5.jar commons-coll
+ ections-3.2.1.jar xmlpull-1.1.3.1.jar xpp3_min-1.1.4c.jar excalibur-l
+ ogger-1.1.jar commons-net-3.3.jar jodd-log-3.6.4.jar xml-path-2.7.0.j
+ ar ApacheJMeter_core-2.13.jar serializer-2.7.2.jar rome-1.0.jar tika-
+ parsers-1.7.jar vorbis-java-core-0.6.jar jodd-core-3.6.4.jar xalan-2.
+ 7.2.jar htmllexer-2.1.jar geronimo-jms_1.1_spec-1.1.1.jar gson-2.4.ja
+ r rhino-1.7R5.jar excalibur-component-2.1.jar xstream-1.4.8.jar jhigh
+ light-1.0.jar bcmail-jdk15-1.45.jar httpmime-4.2.6.jar commons-httpcl
+ ient-3.1.jar groovy-xml-2.4.4.jar xmlgraphics-commons-1.5.jar bsh-2.0
+ b5.jar groovy-json-2.4.4.jar commons-io-2.4.jar servlet-api-2.3.jar h
+ ttpclient-4.2.6.jar geronimo-spec-javamail-1.3.1-rc3.jar mongo-java-d
+ river-2.11.3.jar soap-2.3.1.jar commons-lang3-3.3.2.jar bcprov-jdk15-
+ 1.45.jar avalon-framework-4.1.4.jar commons-logging-1.2.jar unidataCo
+ mmon-4.2.20.jar hamcrest-library-1.3.jar excalibur-instrument-mgr-api
+ -2.1.jar jorphan-2.13.jar poi-3.11.jar xercesImpl-2.11.0.jar apache-m
+ ime4j-dom-0.7.2.jar dnsjava-2.1.7.jar slf4j-nop-1.7.10.jar excalibur-
+ instrument-mgr-impl-2.1.jar hsqldb-1.8.0.1.jar json-path-2.7.0.jar co
+ mmons-jexl-1.1.jar metadata-extractor-2.6.2.jar log4j-1.2.11.jar java
+ -libpst-0.8.1.jar jcip-annotations-1.0.jar poi-scratchpad-3.11.jar Ap
+ acheJMeter_components-2.13.jar commons-jexl-2.1.1.jar activation-1.1.
+ jar jdom-1.1.3.jar apache-mime4j-core-0.7.2.jar groovy-2.4.4.jar bsf-
+ 2.4.0.jar aspectjrt-1.8.0.jar bcpkix-jdk15on-1.49.jar poi-ooxml-3.11.
+ jar ApacheJMeter_java-2.13.jar rest-assured-2.7.0.jar excalibur-instr
+ ument-api-2.1.jar oro-2.0.8.jar
+Main-Class: 
+
